@@ -2,9 +2,9 @@ import Vue from "vue";
 import Router from "vue-router";
 import Home from "./views/Home.vue";
 import Brazil from "./views/Brazil.vue";
-import Hawaii from "./views/Brazil.vue";
-import Panama from "./views/Brazil.vue";
-import Jamaica from "./views/Brazil.vue";
+import Hawaii from "./views/Hawaii.vue";
+import Panama from "./views/Panama.vue";
+import Jamaica from "./views/Jamaica.vue";
 
 Vue.use(Router);
 
